@@ -113,17 +113,17 @@ The system combines a mobile client, Python API, machine-learning components, da
 
 ## Technology Stack
 
-| Area             | Technology                             |
-| ---------------- | -------------------------------------- |
-| Mobile           | React Native, TypeScript               |
-| Backend          | Python, FastAPI                        |
+| Area | Technology |
+|---|---|
+| Mobile | React Native, TypeScript |
+| Backend | Python, FastAPI |
 | Machine Learning | PyTorch, vision-transformer embeddings |
-| Database         | PostgreSQL                             |
-| Data Processing  | NumPy and offline embedding generation |
-| Deployment       | Docker                                 |
-| Networking       | Cloudflare                             |
-| API Style        | REST                                   |
-| Version Control  | Git and GitHub                         |
+| Database | PostgreSQL |
+| Data Processing | NumPy and offline embedding generation |
+| Deployment | Docker |
+| Networking | Cloudflare |
+| API Style | REST |
+| Version Control | Git and GitHub |
 
 ## Security and Privacy
 
